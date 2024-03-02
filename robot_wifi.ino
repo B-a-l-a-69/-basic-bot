@@ -4,8 +4,8 @@
 #define REVA D6
 #define FWDB D7
 #define REVB D8
-const char* ssid ="vivo y02t";
-const char* password="9500043145";
+const char* ssid ="wifi_username";
+const char* password="wifi_passwd";
 
 WiFiServer server(80);
 
